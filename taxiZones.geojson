@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "taxiZones",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 5, "LOCATION": "Various Restaurants and Bars", "STREET": "Park St", "SIDE": "W", "BTWNSTS": "Vine & Spruce", "SPACES": 8 }, "geometry": { "type": "Point", "coordinates": [ -83.004684656595828, 39.971926616289053 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "LOCATION": "Crown Plaza Columbus Downtown", "STREET": "Nationwide Blvd", "SIDE": "N", "BTWNSTS": "High & Fourth", "SPACES": 10 }, "geometry": { "type": "Point", "coordinates": [ -83.00041838061432, 39.969065599277648 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "LOCATION": "Doubletree Hotel", "STREET": "Front St", "SIDE": "E", "BTWNSTS": "State & Capital", "SPACES": 5 }, "geometry": { "type": "Point", "coordinates": [ -83.001913478554357, 39.959697327016357 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 12, "LOCATION": "Renaissance Columbus Downtown Hotel", "STREET": "Lynn St", "SIDE": "S", "BTWNSTS": "Third & Lazelle", "SPACES": 3 }, "geometry": { "type": "Point", "coordinates": [ -82.997797253887811, 39.963256880851112 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 10, "LOCATION": "Hilton Hotel", "STREET": "High St", "SIDE": "W", "BTWNSTS": "Nationwide & Vine", "SPACES": 3 }, "geometry": { "type": "Point", "coordinates": [ -83.002407714566132, 39.970889254719907 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "LOCATION": "Hyatt Hotel\/Drury Inn", "STREET": "Nationwide Blvd", "SIDE": "N", "BTWNSTS": "High & Fourth", "SPACES": 13 }, "geometry": { "type": "Point", "coordinates": [ -83.000429873540924, 39.96924941776907 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "LOCATION": "Nationwide Arena", "STREET": "John H McConnell", "SIDE": "E", "BTWNSTS": "Nationwide & Broadbelt", "SPACES": 9 }, "geometry": { "type": "Point", "coordinates": [ -83.007574178985138, 39.968614465149571 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 14, "LOCATION": "Sheraton Capital Square Hotel", "STREET": "State St", "SIDE": "S", "BTWNSTS": "Pearl & Third", "SPACES": 3 }, "geometry": { "type": "Point", "coordinates": [ -82.998569107334674, 39.960296068213474 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "LOCATION": "Low Income Apartment Building", "STREET": "High St", "SIDE": "E", "BTWNSTS": "Warren & Bollinger", "SPACES": 2 }, "geometry": { "type": "Point", "coordinates": [ -83.003574762223977, 39.977571281249297 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 13, "LOCATION": "Greyhound Bus Station", "STREET": "Town St", "SIDE": "S", "BTWNSTS": "Third and Fourth", "SPACES": 2 }, "geometry": { "type": "Point", "coordinates": [ -82.996452858365856, 39.959152281178824 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 1, "LOCATION": "Select Specialty Hospital", "STREET": "High St", "SIDE": "E", "BTWNSTS": "Southwood & Jenkins", "SPACES": 2 }, "geometry": { "type": "Point", "coordinates": [ -82.995834728958158, 39.932786847673448 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "LOCATION": "Panera Bread\/Clermont Restaurant", "STREET": "High St", "SIDE": "E", "BTWNSTS": "Stimmel & Sycamore", "SPACES": 1 }, "geometry": { "type": "Point", "coordinates": [ -82.997832104053074, 39.948149871072808 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "LOCATION": "Various Restaurants and Bars", "STREET": "Park St", "SIDE": "W", "BTWNSTS": "Spruce & Goodale", "SPACES": 9 }, "geometry": { "type": "Point", "coordinates": [ -83.004621033838276, 39.972967500620854 ] } }
+]
+}
